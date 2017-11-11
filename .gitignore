@@ -1,7 +1,6 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # compiled output
-/dist
 /tmp
 /out-tsc
 
@@ -12,7 +11,7 @@
 /.idea
 .project
 .classpath
-.c9/
+.c9/s
 *.launch
 .settings/
 *.sublime-workspace
@@ -33,9 +32,6 @@ npm-debug.log
 testem.log
 /typings
 
-# e2e
-/e2e/*.js
-/e2e/*.map
 
 # System Files
 .DS_Store

@@ -1,0 +1,6 @@
+applications:
+- name: Angular-proj-demo
+  buildpack: staticfile_buildpack
+  disk_quota: 150M
+  memory: 150M
+  path: dist
